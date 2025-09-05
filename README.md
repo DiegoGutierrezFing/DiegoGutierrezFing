@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego Gutiérrez - @DiegoGutierrezFing - Computer Technologist from Uruguay. 
-- 👀 I’m interested in Electrical Engineering, Physics and Software Development.
+- 👀 I’m a Java Backend Developer and a DevOps Engineer, who is also interested in Electrical Engineering, Physics and Software Development.
 - 🌱 I’m currently learning electronics, physics and embedded systems/microcontroller programming.
 
 <!---
